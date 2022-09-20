@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ShoeStore</string>
+    <string name="login_text">Login</string>
+    <string name="email_text">Email</string>
+    <string name="new_login_text">Register</string>
+    <string name="password_text">Password</string>
+    <string name="enter_your_email">Enter your email id</string>
+    <string name="enter_your_password">Please enter your password</string>
+    <string name="skip_text">Skip</string>
+    <string name="welcome_text">Welcome to Shoe List App</string>
+    <string name="welcome_body">This is the best shoes experience</string>
+    <string name="instructions_text" tools:ignore="ExtraTranslation">Please see the instructions below</string>
+    <string name="instructions_body" tools:ignore="ExtraTranslation">In next screen we will present list of shoes, with an option to add shoes if you would like to add one.</string>
+    <string name="log_out">Log Out</string>
+    <string name="save_text">Save</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company_text">Company</string>
+    <string name="shoe_size_text">Shoe Size</string>
+    <string name="description_text">Description</string>
+    <string name="enter_shoe_name_text">Enter Shoe Name</string>
+    <string name="enter_company_name_text">Enter Company Name</string>
+    <string name="enter_description_text">Enter Description</string>
+    <string name="enter_shoe_store_text">Enter Shoe Store</string>
+</resources>
